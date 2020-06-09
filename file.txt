@@ -1,2 +1,6 @@
 line 1: this is line 1 in master
+<<<<<<< HEAD
 line 2: this is line 2 in master
+=======
+line 2: this is line 2 in no_2
+>>>>>>> no_2

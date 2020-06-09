@@ -1,0 +1,7 @@
+diff a/file.txt b/file.txt	(rejected hunks)
+@@ -1 +1,2 @@
+-line 1: this is line 1 in master
+\ No newline at end of file
++line 1: this is line 1 in master
++line 2: this is line 2 in master
+\ No newline at end of file
